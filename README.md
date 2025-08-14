@@ -81,6 +81,6 @@ Run the notebooks to explore the data analysis workflows end-to-end.
 📬 Contact
 Feel free to reach out for collaborations or questions!
 
-📧 gulamrasool2026@gmail.com
-🔗 https://www.linkedin.com/in/gulam-rasool-02453a303/
-🐍 GitHub: GulamRasool26
+📧 [Email(gulamrasool2026@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/gulam-rasool-02453a303/)
+🐍 [github](https://github.com/GulamRasool26)
